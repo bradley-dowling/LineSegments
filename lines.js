@@ -1,5 +1,13 @@
 // **********************************************************
 // **********************************************************
+// ** Author: Bradley Dowling
+// ** Date: 11/11/2021
+// ** Name: Line Segments
+// ** Description: Finding the intersection of 20 randomly
+// **              drawn lines...
+
+// **********************************************************
+// **********************************************************
 // ** Point is an object that represents a point on an
 // ** x, y plane.
 
